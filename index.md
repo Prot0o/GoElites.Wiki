@@ -1,5 +1,5 @@
 **Welcome to the GoElites.Wiki**! [[Forum](https://goelites.net)] [[Discord](https://discord.gg/m7RctYk)]
-
+TEST
 We hope it serves as a reliable source of information regarding our product and the community. If something of your concern is not answered somewhere here yet, please reach us out using either our forum or Discord channel!
 
 ## Translations
